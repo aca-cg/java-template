@@ -7,8 +7,7 @@ It is composed as follows:
 * section 2 : an interactive java exercise
 * section 3 : an example of viewer
 
-
-If it's your first contribution it is highly recommended to have a look on our [Getting Started](https://docs.google$
+If it's your first contribution it is highly recommended to have a look on our [Getting Started](https://docs.google.com/document/d/12-geAhlmIRNJ3uRdpu6npLIhJ8fXm-8XqupsLCDDpV0/edit?usp=sharing)
 
 The structure of the project is:
 
